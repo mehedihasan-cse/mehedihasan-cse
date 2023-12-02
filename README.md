@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/mehedihasan-cse/mehedihasan-cse/blob/main/Default_Extreme_3D_Art_rendering_of_an_Baby_Bluebowl_with_rame_1_226f278a-ceec-44f6-b872-f46f6840465c_1.jpg)]
+![MasterHead](https://github.com/mehedihasan-cse/mehedihasan-cse/blob/main/Default_Extreme_3D_Art_rendering_of_an_Baby_Bluebowl_with_rame_1_226f278a-ceec-44f6-b872-f46f6840465c_1.jpg)
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">An Aspiring Data Scientist from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
