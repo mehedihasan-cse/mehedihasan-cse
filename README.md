@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/mehedihasan-cse/mehedihasan-cse/blob/main/Personal%20LinkedIn%20Banner.png)
+![MasterHead](https://github.com/mehedihasan-cse/mehedihasan-cse/blob/main/MehediHasan-cse-%20Banner.png)
 <h1 align="center">Hi 👋, I'm Mehedi Hasan</h1>
 <h3 align="center">An Aspiring Data Scientist from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
